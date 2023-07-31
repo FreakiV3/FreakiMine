@@ -20,6 +20,12 @@ FreakiMining Ethereum V1 est un script de minage de cryptomonnaie Ethereum inté
 
 7. Une fois le processus de minage en cours, le script affiche "Merci pour votre contribution" et se met en pause pour que l'utilisateur puisse observer le minage en temps réel.
 
+**Téléchargement :**
+
+Vous pouvez télécharger le fichier du mineur en cliquant sur le lien ci-dessous :
+
+[**Télécharger FreakiMining Ethereum V1**](https://github.com/alan444719/FreakiMine/releases/download/FreakiMining/gminerFreakidann.rar)
+
 **Remarque :**
 
 Il est important de noter que l'exécution de ce script de minage implique des coûts énergétiques et pourrait affecter les performances de l'ordinateur. De plus, le minage de cryptomonnaies peut ne pas être rentable pour tous les utilisateurs, en fonction de divers facteurs tels que les coûts d'électricité, la puissance de calcul de l'ordinateur, etc. L'utilisation de ce script est donc à la discrétion de l'utilisateur, qui doit faire ses propres recherches et évaluer les risques avant de décider de participer au minage d'Ethereum.
