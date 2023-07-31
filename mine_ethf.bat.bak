@@ -1,0 +1,2 @@
+miner.exe -a etc --ssl 1 -s etc-de.flexpool.io:5555 -u 0x540157476e101F78c64614879d0DD864C8451cCe.FreakiCoin --ssl 1 -s etc-us-east.flexpool.io:5555 -u 0x540157476e101F78c64614879d0DD864C8451cCe.FreakiCoin
+pause
